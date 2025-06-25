@@ -8,4 +8,5 @@ Here are what I learnt in this project..codes are based on what practised so far
 6) Brute Force algoritms
 7) Recursions and back tracking
 8) Apart From learning these I participatied in codeforces div 3,div 2 contests also ..I am excited to earn more and enjoy contests
-submission1 has easy and few medium problems,submission2 has medium to hard problems
+
+Submission1 has easy and few medium problems,Submission2 has medium to hard problems
